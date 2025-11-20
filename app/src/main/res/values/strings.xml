@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhatsApp Mesajlaşma</string>
+    <string name="unknown_numbers">Bilinmeyen Numaralar</string>
+    <string name="unknown_number">Bilinmeyen Numara</string>
+    <string name="send_whatsapp">WhatsApp ile Gönder</string>
+    <string name="refresh">Yenile</string>
+    <string name="help">Yardım</string>
+    <string name="no_unknown_numbers">Rehberinizde bilinmeyen numara bulunamadı</string>
+    <string name="loading_call_logs">Çağrı geçmişi yükleniyor...</string>
+    <string name="permission_required">Rehbere erişim izni gerekli</string>
+    <string name="error_loading_contacts">Rehber yüklenirken hata oluştu</string>
+    <string name="error_opening_whatsapp">WhatsApp açılırken hata oluştu</string>
+</resources>
